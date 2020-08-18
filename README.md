@@ -23,4 +23,3 @@ Things you may want to cover:
 
 * ...
 # my_awesome_app2
-# my_awesome_app2
